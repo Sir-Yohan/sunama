@@ -114,7 +114,7 @@ header {
 .hero {
     height: 100vh;
     background: linear-gradient(rgba(31, 41, 55, 0.7), rgba(31, 41, 55, 0.7)),
-                url('blob/main/Images/homepage.jpeg');
+                url('../Images/homepage.jpeg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
